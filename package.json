@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A node js learnin folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ANkit"
+  ],
+  "author": "anklit",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
